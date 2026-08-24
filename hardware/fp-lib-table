@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "AirQuality")(type "KiCad")(uri "${KIPRJMOD}/libraries/AirQuality.pretty")(options "")(descr "Projekt-Footprints aus LCSC (easyeda2kicad)"))
+)

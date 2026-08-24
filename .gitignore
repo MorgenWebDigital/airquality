@@ -1,0 +1,17 @@
+# kicad writes this on every open; it holds window sizes and the last selected
+# layers, so nothing that belongs to the design
+*.kicad_prl
+
+# automatic backups on save, each one a copy of the whole project
+*-backups/
+
+# built from the libraries on first open, valid for this machine only
+fp-info-cache
+
+# python leaves these next to the module, carrying this machine's absolute path
+__pycache__/
+*.pyc
+
+.DS_Store
+.vscode/
+.idea/
